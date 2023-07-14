@@ -1,16 +1,14 @@
-# flash_chat
+# Flash Chat ⚡️
 
-A new Flutter project.
+In this app i have incorporated Firebase into my Flutter app.  using Firebase Cloud Firestore as well as the Firebase authentication package to equip my app with a cloud-based NoSQL database and secure authentication methods.
 
-## Getting Started
+I have used
+1- Firebase
+2- Firebase authentication to register and sign in users.
+3- beautiful animations using the Flutter Hero widget.
+4- custom aniamtions using Flutter's animation controller.
+5- mixins.
+6- Streams
+7- ListViews to build scrolling views.
+8- Firebase Cloud Firestore to store and retrieve data on the fly.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
