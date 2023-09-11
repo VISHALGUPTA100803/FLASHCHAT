@@ -2,6 +2,13 @@
 
 In this app i have incorporated Firebase into my Flutter app.  using Firebase Cloud Firestore as well as the Firebase authentication package to equip my app with a cloud-based NoSQL database and secure authentication methods.
 
+
+
+[Download the APK from our Releases page here](https://github.com/VISHALGUPTA100803/FLASHCHAT/releases/tag/v1.0.0)
+
+
+
+
 I have used
 
 
