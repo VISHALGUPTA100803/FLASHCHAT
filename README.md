@@ -3,8 +3,13 @@
 Welcome to **LightningChat**, a Flutter app where I've seamlessly integrated Firebase services. This app utilizes Firebase Cloud Firestore for a cloud-based NoSQL database and Firebase authentication package to ensure secure user authentication.
 
 ## Getting Started 🚀
+To get started with the LightningChat App, you have two options:
 
-Download the APK from our [Releases Page](https://github.com/VISHALGUPTA100803/FLASHCHAT/releases/tag/v1.0.0) and experience instant messaging with a touch of Flutter magic!
+1. **Download from the Amazon Appstore:**
+   - [Download from Amazon Appstore](https://www.amazon.com/gp/product/B0D7JSRWYJ)
+
+2. **Download the APK directly:**
+   - [Download the latest version of the app](https://github.com/VISHALGUPTA100803/LightningChat/releases/tag/v1.0.0)
 
 ## Features ✨
 
@@ -16,7 +21,7 @@ Download the APK from our [Releases Page](https://github.com/VISHALGUPTA100803/F
 
 ## How to Use 🌟
 
-1. **Download the App**: Get the app from our [Releases Page](https://github.com/VISHALGUPTA100803/FLASHCHAT/releases/tag/v1.0.0).
+1. **Download the App**: Get the app from our [Amazon Appstore](https://www.amazon.com/gp/product/B0D7JSRWYJ).
 2. **Register or Sign In**: Create an account or log in securely using Firebase authentication.
 3. **Start Chatting**: Dive into the world of instant messaging with LightningChat. Connect with friends and family effortlessly!
 
