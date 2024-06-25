@@ -8,11 +8,11 @@ import 'package:flash_chat/screens/chat_screen.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
-  runApp(const FlashChat());
+  runApp(const LightningChat());
 }
 
-class FlashChat extends StatelessWidget {
-  const FlashChat({Key? key}) : super(key: key);
+class LightningChat extends StatelessWidget {
+  const LightningChat({Key? key}) : super(key: key);
   @override
   Widget build(BuildContext context) {
     return MaterialApp(

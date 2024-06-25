@@ -69,7 +69,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                     fontWeight: FontWeight.w900,
                   ),
                   child: AnimatedTextKit(
-                    animatedTexts: [TypewriterAnimatedText('FLASH CHAT')],
+                    animatedTexts: [TypewriterAnimatedText('Lightning Chat')],
                   ),
                 )
               ],
