@@ -1,6 +1,6 @@
-# Flash Chat ⚡️
+# LightningChat ⚡️
 
-Welcome to **Flash Chat**, a Flutter app where I've seamlessly integrated Firebase services. This app utilizes Firebase Cloud Firestore for a cloud-based NoSQL database and Firebase authentication package to ensure secure user authentication.
+Welcome to **LightningChat**, a Flutter app where I've seamlessly integrated Firebase services. This app utilizes Firebase Cloud Firestore for a cloud-based NoSQL database and Firebase authentication package to ensure secure user authentication.
 
 ## Getting Started 🚀
 
@@ -18,7 +18,7 @@ Download the APK from our [Releases Page](https://github.com/VISHALGUPTA100803/F
 
 1. **Download the App**: Get the app from our [Releases Page](https://github.com/VISHALGUPTA100803/FLASHCHAT/releases/tag/v1.0.0).
 2. **Register or Sign In**: Create an account or log in securely using Firebase authentication.
-3. **Start Chatting**: Dive into the world of instant messaging with Flash Chat. Connect with friends and family effortlessly!
+3. **Start Chatting**: Dive into the world of instant messaging with LightningChat. Connect with friends and family effortlessly!
 
 ## Technologies Used 🛠️
 
