@@ -29,10 +29,15 @@ Download the APK from our [Releases Page](https://github.com/VISHALGUPTA100803/F
 
 
 
+
+
+
+
+
 ## Screenshots 📸
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github.com/VISHALGUPTA100803/FLASHCHAT/assets/96491059/c8fb9191-0bbc-4416-9223-82b3b9bd6508" alt="Screenshot 1" width="400" style="margin: 10px;">
+  <img src="https://github.com/VISHALGUPTA100803/LightningChat/assets/96491059/6fa3f14e-cfbe-4f99-9414-bf5da4e1275e" alt="Screenshot 1" width="400" style="margin: 10px;">
   <img src="https://github.com/VISHALGUPTA100803/FLASHCHAT/assets/96491059/887de5a4-46fa-420f-a600-caadf3e3d570" alt="Screenshot 2" width="400" style="margin: 10px;">
 </div>
 
@@ -44,7 +49,7 @@ Download the APK from our [Releases Page](https://github.com/VISHALGUPTA100803/F
 
 
 ## Video 📸
-https://github.com/VISHALGUPTA100803/FLASHCHAT/assets/96491059/42aa2f7d-1cc2-49ac-9711-8aed69791b1c
+https://github.com/VISHALGUPTA100803/LightningChat/assets/96491059/f97a0244-c969-42e5-bf24-1592fd50e970
 
 
 
